@@ -1,0 +1,55 @@
+[
+    21, 
+    {
+        u'Vasya': 
+        {
+            u'boy': u'Manava', 
+            u'girl': u'Manava', 
+            u'score': 2, 
+            u'max': 2
+        }, 
+        u'Nadi': {
+            u'boy': u'Vata', 
+            u'girl': u'Kapha', 
+            u'score': 8, 
+            u'max': 8
+        }, 
+        u'Bhakoot': {
+            u'boy': u'Mithuna', 
+            u'girl': u'Tula', 
+            u'score': 0, 
+            u'max': 7
+        }, 
+        u'Graha Maitri': 
+        {
+            u'boy': u'Budha', 
+            u'girl': u'Shukra', 
+            u'score': 5, 
+            u'max': 5
+        }, 
+        u'Tara': {
+            u'boy': u'Sadhak', 
+            u'girl': u'Sadhak', 
+            u'score': 3, 
+            u'max': 3
+        }, 
+        u'Yoni': {
+            u'boy': u'Swah', 
+            u'girl': u'Mahisha', 
+            u'score': 2, 
+            u'max': 4
+        }, 
+        u'Gana': {
+            u'boy': u'Manusha', 
+            u'girl': u'Rakshasa', 
+            u'score': 0, 
+            u'max': 6
+        }, 
+        u'Varna': {
+            u'boy': u'Shudra', 
+            u'girl': u'Shudra', 
+            u'score': 1, 
+            u'max': 1
+        }
+    }
+]
